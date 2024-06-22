@@ -2,15 +2,31 @@
 <h1 align="center">Heyy, Aditya this side!</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
-- 🔭 I’m currently working on **Integraion of ML Models to Native Apps**
+## 🔭 Current Projects
+- **Integration of ML Models to Native Apps**: I'm actively working on projects that bring the power of machine learning to native applications. This involves creating seamless integrations that enhance user experiences and provide intelligent features.
 
-- 🌱 I’m currently learning **ScikitLearn, LLMs, GenAI, BERT, Kubernetes and NLP**
+## 🌱 Learning and Development
+I'm currently diving deep into the following technologies to expand my skill set and stay at the forefront of the tech industry:
+- **ScikitLearn**: Leveraging this powerful library for building and deploying machine learning models.
+- **LLMs (Large Language Models)**: Exploring the capabilities of large language models for various applications.
+- **GenAI (Generative AI)**: Investigating generative models and their potential for creative and practical solutions.
+- **BERT (Bidirectional Encoder Representations from Transformers)**: Utilizing BERT for natural language processing tasks.
+- **Kubernetes**: Mastering container orchestration to ensure scalable and resilient deployments.
+- **NLP (Natural Language Processing)**: Enhancing my understanding and application of NLP techniques for text analysis and language understanding.
 
-- 🤝 I’m looking to collaborate with **a professional ML Developer**
+## 🤝 Collaboration
+I am eager to collaborate with **professional ML developers** who are as passionate about machine learning and AI as I am. If you're interested in working on exciting projects and pushing the boundaries of what's possible, let's connect!
 
-- 💬 I've Working Experience (GCP) on **APIs, BigQuery, VMs and Auth Services**
+## 💬 Professional Experience
+With hands-on experience in **Google Cloud Platform (GCP)**, I have developed and deployed solutions using:
+- **APIs**: Creating and managing robust APIs for seamless data exchange.
+- **BigQuery**: Harnessing the power of BigQuery for large-scale data analysis.
+- **Virtual Machines (VMs)**: Configuring and optimizing VMs for various computational needs.
+- **Auth Services**: Implementing secure authentication services for protecting applications and data.
 
-- 📫 How to reach me? **igaditya@gmail.com**
+## 📫 Get in Touch
+I’m always open to new opportunities and collaborations. Feel free to reach out to me at **igaditya@gmail.com**. Whether you have a project idea, a question, or just want to chat about the latest in ML and AI, I’d love to hear from you!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
