@@ -44,8 +44,8 @@ I’m always open to new opportunities and collaborations. Feel free to reach ou
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aditya-ig10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aditya-ig10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-ig10&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ig10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-ig10&theme=tokyonight&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ig10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
