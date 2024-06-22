@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Heyy, Aditya this side!</h1>
-<h3 align="center">An Coding Freak you never met before XD!</h3>
+<h3 align="center">A Coding Freak you never met before XD!</h3>
 
 ## 🔭 Current Projects
 - **Integration of ML Models to Native Apps**: I'm actively working on projects that bring the power of machine learning to native applications. This involves creating seamless integrations that enhance user experiences and provide intelligent features.
