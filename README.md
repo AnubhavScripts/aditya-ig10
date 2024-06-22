@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Heyy there, Aditya this side!</h1>
-<h3 align="center">Who am I? Read Below to know me more!</h3>
+<h3 align="center">New here? Read Below to know me!</h3>
 
 ## 🔭 Current Projects
 - **Integration of ML Models to Native Apps**: I'm actively working on projects that bring the power of machine learning to native applications. This involves creating seamless integrations that enhance user experiences and provide intelligent features.
