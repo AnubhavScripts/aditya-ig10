@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif)
+<div style="width: 100%; height: 200px; background-image: url('https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+</div>
 <h1 align="center">Heyy! Aditya this side</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
