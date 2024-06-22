@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" />
 </p>
 
-<h1 align="center">Heyy, Aditya this side!</h1>
-<h3 align="center">A Coding Freak you never met before XD!</h3>
+<h1 align="center">Heyy there, Aditya this side!</h1>
+<h3 align="center">Who am I? Read Below to know me more!</h3>
 
 ## 🔭 Current Projects
 - **Integration of ML Models to Native Apps**: I'm actively working on projects that bring the power of machine learning to native applications. This involves creating seamless integrations that enhance user experiences and provide intelligent features.
