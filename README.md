@@ -1,8 +1,6 @@
 <h1 align="center">Heyy! Aditya this side</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-ig10" alt="aditya-ig10" /></a> </p>
-
 - 🔭 I’m currently working on **Integraion of ML Models to Native Apps**
 
 - 🌱 I’m currently learning **ScikitLearn, LLMs, GenAI, BERT, Kubernetes and NLP**
