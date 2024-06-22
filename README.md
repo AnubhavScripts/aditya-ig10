@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif" alt="MasterHead" style="width: 100%; height: auto;" />
-</div>
+![MasterHead](https://64.media.tumblr.com/3bbc7b5733d0bb9874b849712ee8029d/tumblr_nednkfdX5L1trzm55o1_500.gif)
 <h1 align="center">Heyy! Aditya this side</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
