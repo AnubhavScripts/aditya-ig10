@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif)
+<img src="https://i.pinimg.com/originals/61/3f/ff/613fff320531869fb9b0c801966eb8de.gif" alt="MasterHead" style="width: 100%; height: auto;" />
 <h1 align="center">Heyy! Aditya this side</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
