@@ -1,5 +1,5 @@
-![MasterHead](https://64.media.tumblr.com/3bbc7b5733d0bb9874b849712ee8029d/tumblr_nednkfdX5L1trzm55o1_500.gif)
-<h1 align="center">Heyy! Aditya this side</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">Heyy, Aditya this side!</h1>
 <h3 align="center">An Coding Freak you never met before XD!</h3>
 
 - 🔭 I’m currently working on **Integraion of ML Models to Native Apps**
