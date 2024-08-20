@@ -22,6 +22,9 @@ I am eager to collaborate with **professional ML developers** who are as passion
 
 ## 💬 Professional Experience
 With hands-on experience in **Google Cloud Platform (GCP)**, I have developed and deployed solutions using:
+- **ReactJs**: Implementation and Deployment of Native Apps.
+- **NextJs**: I'm currently working on my latest project via NextJs which is a Web3 based Website.
+- **Auth Services**: Implementing secure authentication services for protecting applications and data.
 - **APIs**: Creating and managing robust APIs for seamless data exchange.
 - **BigQuery**: Harnessing the power of BigQuery for large-scale data analysis.
 - **Virtual Machines (VMs)**: Configuring and optimizing VMs for various computational needs.
